@@ -232,7 +232,7 @@ pygame.display.update()
 
 
 # 잠시 대기
-pygame.time.delay(1000) # 2초 정도 대기 (ms)
+pygame.time.delay(10000) # 2초 정도 대기 (ms)
 
 # pygame 종료
 pygame.quit()

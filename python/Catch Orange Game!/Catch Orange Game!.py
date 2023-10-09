@@ -74,7 +74,7 @@ class Snake:
  
  
 class Apple:
-    Apple = pygame.image.load("j.png")
+    Apple = pygame.image.load("images/j.png")
     def __init__(self, position=(15, 15)):
         self.position = position
  
